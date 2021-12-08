@@ -16,3 +16,16 @@ jobs:
         with:
           readme_path: "./profile/README.wip.md"
           feed_list: "https://medium.com/feed/@lenra_io_dev"
+          comment_tag_name: MEDIUM_POST_LIST
+      - name: Pull in reddit posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          readme_path: "./profile/README.wip.md"
+          feed_list: "http://www.reddit.com/r/lenra/.rss"
+          comment_tag_name: REDDIT_POST_LIST
+      - name: Pull in Youtube posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          readme_path: "./profile/README.wip.md"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsfPy59R3PTcFWtPO-Yklrw"
+          comment_tag_name: YOUTUBE_VIDEO_LIST

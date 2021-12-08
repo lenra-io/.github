@@ -11,6 +11,14 @@ You have created an awesome app using Lenra that you want to share ? You have qu
 You just found a bug or you want to help us by contributing to the project ? Please follow our Contribution guide (coming soon).
 
 
-# Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Our latest blog posts
+<!-- MEDIUM_POST_LIST:START -->
+<!-- MEDIUM_POST_LIST:END -->
+
+## Recent post on Reddit !
+<!-- REDDIT_POST_LIST:START -->
+<!-- REDDIT_POST_LIST:END -->
+
+## Learn with Lenra
+<!-- YOUTUBE_VIDEO_LIST:START -->
+<!-- YOUTUBE_VIDEO_LIST:END -->
