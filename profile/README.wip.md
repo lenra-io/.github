@@ -17,6 +17,7 @@ You just found a bug or you want to help us by contributing to the project ? Ple
 
 ## Recent post on Reddit !
 <!-- REDDIT_POST_LIST:START -->
+- [r/Lenra Lounge](https://www.reddit.com/r/Lenra/comments/qg1ewl/rlenra_lounge/)
 <!-- REDDIT_POST_LIST:END -->
 
 ## Learn with Lenra
