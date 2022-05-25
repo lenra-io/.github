@@ -29,4 +29,4 @@ What can be done to improve the ecological impact of this task ?
 - Is it CPU-intensive ? Can we reduce the CPU charge ?
 - Is it RAM-intensive ? Can we reduce the RAM load ?
 
-## Is this tasked linked with any other ?
+## Is this task linked with any other ?
