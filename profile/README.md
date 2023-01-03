@@ -28,12 +28,12 @@
   <p align="center">
     Lenra is an open source framework to create your app using any language, and deploy it without any Ops scale, built on ethical values.
   </p>
-</div>
-
 
 [Report Bug](https://github.com/lenra-io/lenra_cli/issues)
 ·
 [Request Feature](https://github.com/lenra-io/lenra_cli/issues)
+</div>
+
 
 ## Next steps
 
