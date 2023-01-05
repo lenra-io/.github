@@ -38,7 +38,7 @@
 ## Next steps
 
 - [Discover Lenra](https://www.lenra.io/discover.html)
-- [Getting started with our CLI](https://www.lenra.io/discover.html)
+- [Getting started with our CLI](https://github.com/lenra-io/lenra_cli)
 - [Read the documentation](https://docs.lenra.io)
 
 <!-- MARKDOWN LINKS & IMAGES -->
