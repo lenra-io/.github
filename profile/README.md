@@ -58,7 +58,7 @@
 [youtube-shield]: https://img.shields.io/youtube/channel/subscribers/UCsfPy59R3PTcFWtPO-Yklrw.svg?style=for-the-badge&label=Youtube&logo=youtube
 [youtube-url]: https://www.youtube.com/channel/UCsfPy59R3PTcFWtPO-Yklrw
 [reddit-shield]: https://img.shields.io/reddit/subreddit-subscribers/Lenra.svg?style=for-the-badge&logo=reddit&label=r%2Flenra&logoColor=white
-[reddit-url]: https://www.reddit.com/r/lenra_cli/
+[reddit-url]: https://www.reddit.com/r/Lenra/
 [devdotto-shield]: https://img.shields.io/badge/dev.to/lenra-read%20us-brightgreen.svg?style=for-the-badge&logo=devdotto
 [devdotto-url]: https://dev.to/lenra
 [twitch-shield]: https://img.shields.io/twitch/status/codewithlenra?logo=twitch&logoColor=white&style=for-the-badge
