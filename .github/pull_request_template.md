@@ -1,9 +1,8 @@
 
 <!-- 
-Link the related issue :
-#42
+Link the related issue
 -->
-#__ 
+Closes # 
 
 ## Checklist
 - [ ] I didn't over-scope my PR
