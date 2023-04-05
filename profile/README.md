@@ -2,8 +2,9 @@
 
 <div align="center">
 
+  [![Lenra Beta][lenra-beta-shield]][lenra-beta-url]
+  ![Stargazers][stars-shield]
   [![Good first issues][good-first-issues-shield]][good-first-issues-url]
-  [![LenraBeta][lenra-beta-shield]][lenra-beta-url]
 </div>
 <div align="center">
   <!-- Keep one empty line -->
@@ -47,7 +48,7 @@
 [contributors-url]: https://github.com/lenra-io/template-hello-world-node12/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/lenra-io/template-hello-world-node12.svg?style=for-the-badge
 [forks-url]: https://github.com/lenra-io/template-hello-world-node12/network/members
-[stars-shield]: https://img.shields.io/github/stars/lenra-io/template-hello-world-node12.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/lenra-io?style=for-the-badge
 [stars-url]: https://github.com/lenra-io/template-hello-world-node12/stargazers
 [issues-shield]: https://img.shields.io/github/issues/lenra-io/lenra_cli.svg?style=for-the-badge
 [issues-url]: https://github.com/lenra-io/lenra_cli
