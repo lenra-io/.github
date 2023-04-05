@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Issues][issues-shield]][issues-url]
+  [![Good first issues][good-first-issues-shield]][good-first-issues-url]
   [![LenraBeta][lenra-beta-shield]][lenra-beta-url]
 </div>
 <div align="center">
@@ -51,6 +51,8 @@
 [stars-url]: https://github.com/lenra-io/template-hello-world-node12/stargazers
 [issues-shield]: https://img.shields.io/github/issues/lenra-io/lenra_cli.svg?style=for-the-badge
 [issues-url]: https://github.com/lenra-io/lenra_cli
+[good-first-issues-shield]: https://img.shields.io/github/issues-search?label=good%20first%20issues&query=org%3Alenra-io%20is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22&style=for-the-badge
+[good-first-issues-url]: https://github.com/search?l=&q=org%3Alenra-io+label%3A%22good+first+issue%22&state=open&type=Issues
 [license-shield]: https://img.shields.io/github/license/lenra-io/template-hello-world-node12.svg?style=for-the-badge
 [license-url]: https://github.com/lenra-io/template-hello-world-node12/blob/master/LICENSE.txt
 [twitter-shield]: https://img.shields.io/twitter/follow/lenra_dev.svg?style=for-the-badge&logo=twitter&label=%40lenra_dev&logoColor=white
