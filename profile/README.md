@@ -27,7 +27,7 @@
 <h3 align="center">Optimize your app creation</h3>
 
   <p align="center">
-    Lenra is an open source framework to create your app using any language, and deploy it without any Ops scale, built on ethical values.
+   Lenra is an open-source and ethical alternative to Firebase. Optimize your app creation, and just like that, make the world a better place;) Create / host and deploy in one place. 
   </p>
 
 [Report Bug](https://github.com/lenra-io/lenra_cli/issues)
