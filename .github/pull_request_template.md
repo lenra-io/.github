@@ -13,7 +13,7 @@
 <!-- 
 Link the related issue
 -->
-Closes #
+Closes # 
 
 ## Description of the changes
 <!-- 
