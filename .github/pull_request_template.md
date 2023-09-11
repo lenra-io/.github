@@ -10,12 +10,13 @@
   - 📗 Update any related documentation and include any relevant screenshots.
 -->
 
+
+
+## About this PR
 <!-- 
 Link the related issue if any.
 -->
 Closes # 
-
-## About this PR
 <!-- 
   - What is the bug/feature you make ? (If describe in the issue, don't repeat yourself, tell us)
   - Any other changes not in the issue ? Why did you add them ?
@@ -53,24 +54,6 @@ Closes #
     I've added the rule to deny anyone that did not accept the CGU.
 -->
 
-## Checklist
-- [ ] I didn't over-scope my PR
-- [ ] My PR title matches the [commit convention](https://www.conventionalcommits.org/en/v1.0.0/)
-- [ ] I did not include breaking changes
-- [ ] I made my own code-review before requesting one
-
-### I included unit tests that cover my changes
-- [ ] 👍 yes
-- [ ] 🙅 no, because they aren't needed
-- [ ] 🙋 no, because I need help
-
-### I added/updated the documentation about my changes
-- [ ] 📜 README.md
-- [ ] 📕 docs/*.md
-- [ ] 📓 docs.lenra.io
-- [ ] 🙅 no documentation needed
-
-
 ## How to test my changes
 <!-- 
   - How to start the project. Any other dependancies to update ? Any database migration ?
@@ -90,5 +73,23 @@ Closes #
   - Validate the CGU ising the API POST /api/cgu/accept
   - Access the API agail, now it should work.
 -->
+
+
+## Checklist
+- [ ] I didn't over-scope my PR
+- [ ] My PR title matches the [commit convention](https://www.conventionalcommits.org/en/v1.0.0/)
+- [ ] I did not include breaking changes
+- [ ] I made my own code-review before requesting one
+
+### I included unit tests that cover my changes
+- [ ] 👍 yes
+- [ ] 🙅 no, because they aren't needed
+- [ ] 🙋 no, because I need help
+
+### I added/updated the documentation about my changes
+- [ ] 📜 README.md
+- [ ] 📕 docs/*.md
+- [ ] 📓 docs.lenra.io
+- [ ] 🙅 no documentation needed
 
 
