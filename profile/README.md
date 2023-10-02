@@ -1,8 +1,7 @@
 <div id="top"></div>
 
 <div align="center">
-
-  [![Lenra Beta][lenra-beta-shield]][lenra-beta-url]
+  
   ![Stargazers][stars-shield]
   [![Good first issues][good-first-issues-shield]][good-first-issues-url]
 </div>
@@ -22,7 +21,7 @@
 <br />
 <div align="center">
 
-<h1 align="center">Lenra - beta version</h1>
+<h1 align="center">Lenra</h1>
 
 <h3 align="center">Optimize your app creation</h3>
 
