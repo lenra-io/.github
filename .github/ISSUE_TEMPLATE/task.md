@@ -16,8 +16,8 @@ assignees: ''
 ## What should be done 
 Describe the task and scope...
 
-## Technical recommandation
-Any technical recommandation or specific warning about this task (if needed)
+## Technical recommendation
+Any technical recommendation or specific warning about this task (if needed)
 - Security issue to be warned of 
 - Complexity issue
 - Will it scale ?
