@@ -57,7 +57,7 @@
 [reddit-url]: https://www.reddit.com/r/Lenra/
 [devdotto-shield]: https://img.shields.io/badge/dev.to/lenra-read%20us-brightgreen.svg?style=for-the-badge&logo=devdotto
 [devdotto-url]: https://dev.to/lenra
-[twitch-shield]: https://img.shields.io/twitch/status/codewithlenra?logo=twitch&logoColor=white&style=for-the-badge
+[twitch-shield]: https://img.shields.io/twitch/status/lenra4devs?logo=twitch&logoColor=white&style=for-the-badge
 [twitch-url]: https://twitch.lenra.io
 [github-org-shield]: https://img.shields.io/github/stars/lenra-io.svg?style=for-the-badge&logo=github
 [github-org-url]: https://github.com/lenra-io
